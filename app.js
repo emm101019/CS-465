@@ -1,7 +1,7 @@
 const express = require('express');
 const path = require('path');
 const hbs = require('hbs');
-
+require('./app_server/models/db');
 const app = express();
 
 app.set('view engine', 'hbs');

@@ -1,0 +1,32 @@
+[
+  {
+    "code": "BCH337",
+    "name": "Sandy Beach Resort",
+    "length": "7 nights / 8 days",
+    "start": "2026-06-15",
+    "resort": "Sandy Beach Resort & Spa",
+    "perPerson": "$1,995",
+    "image": "sandy-beach.jpg",
+    "description": "Enjoy white sand beaches, ocean views, and relaxing tropical weather."
+  },
+  {
+    "code": "OCE221",
+    "name": "Ocean Paradise",
+    "length": "5 nights / 6 days",
+    "start": "2026-07-10",
+    "resort": "Ocean Paradise Hotel",
+    "perPerson": "$1,595",
+    "image": "ocean-paradise.jpg",
+    "description": "Explore clear blue water, snorkeling, and luxury accommodations."
+  },
+  {
+    "code": "REEF410",
+    "name": "Coral Reef Adventure",
+    "length": "6 nights / 7 days",
+    "start": "2026-08-05",
+    "resort": "Coral Reef Resort",
+    "perPerson": "$1,795",
+    "image": "coral-reef.jpg",
+    "description": "Perfect for travelers who want reef tours, diving, and island fun."
+  }
+]
