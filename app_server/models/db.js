@@ -18,3 +18,4 @@ mongoose.connection.on('disconnected', () => {
 });
 
 require('./travlr');
+require('../../app_api/models/travlrUsers');
